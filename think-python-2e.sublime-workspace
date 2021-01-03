@@ -1,0 +1,343 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"db",
+				"db_from_env"
+			],
+			[
+				"n",
+				"new_value"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"validate",
+				"validate_dot_com"
+			],
+			[
+				"cen",
+				"content"
+			],
+			[
+				"cl",
+				"ClickEvent"
+			],
+			[
+				"cLICK",
+				"ClickEventManager"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"value",
+				"value_2_invalid"
+			],
+			[
+				"valu2",
+				"value_2_invalid"
+			],
+			[
+				"v",
+				"validate_url"
+			],
+			[
+				"ur",
+				"url_validator"
+			],
+			[
+				"URL",
+				"URLValidator"
+			],
+			[
+				"u",
+				"url_validator"
+			],
+			[
+				"url",
+				"URLValidator"
+			],
+			[
+				"clean",
+				"cleaned_data"
+			],
+			[
+				"Su",
+				"SubmitUrlForm"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"D",
+				"DEFAULT_REDIRECT_URL"
+			],
+			[
+				"h",
+				"HttpResponse"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"Kir",
+				"KirrURL"
+			],
+			[
+				"kirr",
+				"kirr_redirect_view"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"cr",
+				"create_shortcode"
+			],
+			[
+				"k",
+				"KirrURL"
+			],
+			[
+				"Kirr",
+				"KirrURLManagar"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/think-python-2e/exercises/1-1.py",
+		"/C/Users/piran/PycharmProjects/forca/forca_v1.py",
+		"/C/trydjango/src/shortener/templates/shortener/success.html",
+		"/C/trydjango/src/shortener/templates/shortener/already-exists.html",
+		"/C/trydjango/src/templates/base.html",
+		"/C/trydjango/src/kirr/settings/local.py",
+		"/C/trydjango/src/kirr/hosts.py",
+		"/C/trydjango/src/kirr/settings/production.py",
+		"/C/trydjango/src/shortener/models.py",
+		"/C/trydjango/src/manage.py",
+		"/C/trydjango/src-fixed/kirr/hosts.py",
+		"/C/trydjango/src/shortener/forms.py",
+		"/C/trydjango/src/shortener/templates/shortener/home.html",
+		"/C/trydjango/src/shortener/validators.py",
+		"/C/trydjango/src/.gitignore",
+		"/C/trydjango/src/shortener/views.py",
+		"/C/trydjango/src/shortener/utils.py",
+		"/C/trydjango/src/kirr/old_settings.py",
+		"/C/trydjango/src/kirr/settings/__init__.py",
+		"/C/trydjango/src/shortener/admin.py",
+		"/C/trydjango/src/README.md",
+		"/C/trydjango/src/kirr/hostsconf/views.py",
+		"/C/trydjango/src/kirr/urls.py",
+		"/C/trydjango/src/requirements.txt",
+		"/C/trydjango/src/Procfile",
+		"/C/trydjango/Procfile",
+		"/C/trydjango/src/shortener/tests.py",
+		"/C/trydjango/src/kirr/settings.py",
+		"/C/trydjango/src/analytics/models.py",
+		"/C/trydjango/src/templates/templates-ext/base.html",
+		"/C/trydjango/src/shortener/templates/shortener/base.html",
+		"/C/trydjango/src/shortener/templates/base.html",
+		"/C/trydjango/src/analytics/admin.py",
+		"/C/trydjango/src/analytics/__init__.py",
+		"/C/trydjango/src/shortener/templates/shortener/validators.py",
+		"/C/trydjango/src/kirr/hostsconf/urls.py",
+		"/C/trydjango/src/shortener/management/commands/refreshcodes.py",
+		"/C/trydjango/src/kirr/hostsconf/__init__.py",
+		"/C/trydjango/src/shortener/management/commands/__init__.py",
+		"/C/trydjango/src/shortener/management/__init__.py",
+		"/C/PythonFundamentos/Cap05/Lab03/forca_v1.py",
+		"/C/trydjango/src/shortener/migrations/__init__.py",
+		"/C/trydjango/src/shortener/__init__.py",
+		"/C/trydjango/src/db.sqlite3",
+		"/C/trydjango/src/shortener/migrations/0002_kirrurl_shortcode.py",
+		"/C/trydjango/src/shortener/migrations/0001_initial.py",
+		"/C/trydjango/trydjango.sublime-workspace"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 127.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "think-python-2e.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
