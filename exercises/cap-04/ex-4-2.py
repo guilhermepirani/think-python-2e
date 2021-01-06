@@ -1,6 +1,6 @@
-''' Draws flowers as in reference 
-
-4.2 Write an appropriately general set of functions that can draw flowers as in Figure'''
+''' Code for 4.12.2
+Write an appropriately general set of functions
+that can draw flowers as in Figure'''
 
 import math
 import turtle

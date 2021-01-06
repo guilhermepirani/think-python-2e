@@ -1,9 +1,12 @@
-''' Draws an Archimedian spiral '''
+''' Code for 4.12.5
+Read about spirals at http://en.wikipedia.org/wiki/Spiral;
+then write a program that draws an Archimedian spiral 
+(or one of the other kinds). '''
 
 import turtle
 
 def spiral(t, n, lenght, r, whirl):
-	'''
+	''' Draws an Archimedian spiral
 	n is for how long the turtle works, use big numbers
 	lenght is the space in which the curvature is applyed, use small integers
 	whirl is the overall curvature, use .3-4f decimals

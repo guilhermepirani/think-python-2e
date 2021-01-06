@@ -92,3 +92,27 @@ global --> PI = 3.14159265359
  -- def circle --
 circle(bob, 100)
 '''
+
+''' 4.12.1 Stack diagram
+__main__ :
+    bob    ---> turtle.Turtle()
+    radius ---> 100
+polyline:
+    t      ---> bob
+    n      ---> 158
+    length ---> 3.9766995615060674
+    angle  ---> 2.278481012658228
+arc :
+    t           ---> bob
+    r           ---> 100
+    angle       ---> 360
+    arc_length  ---> 628.3185307179587
+    n           ---> 158
+    step_length ---> 3.9766995615060674
+    step_angle  ---> 2.278481012658228
+    
+circle :
+      t ---> bob
+      r ---> 100
+      
+'''

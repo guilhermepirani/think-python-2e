@@ -1,6 +1,6 @@
-''' Draws polygons as in reference 
-
-4.3 Write an appropriately general set of functions that can draw shapes as in Figure'''
+''' Code for 4.12.3
+Write an appropriately general set of functions
+that can draw shapes as in Figure'''
 
 import math
 import turtle
