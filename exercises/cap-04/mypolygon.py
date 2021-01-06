@@ -5,10 +5,8 @@ parameter angle, which determines what fraction of a circle to draw.
  The parameter angle is in units of degrees,
 so when angle=360, arc should draw a complete circle.
 '''
+import math
 import turtle
-
-PI = 3.14159265359
-bob = turtle.Turtle()
 
 def square(t, lenght):
 	for _ in range(4):
@@ -21,11 +19,11 @@ def polygon(t, length, n):
 		t.lt(360 / n)
 
 def circle(t, r):
-	length = (2 * PI * r) / 120
+	length = (2 * math.pi * r) / 120
 	polygon(t, length, 120)
 
 def arc(t, r, angle):
-	length = 2 * PI * r * angle / 360
+	length = 2 * math.pi * r * angle / 360
 	n = int(length / 3) + 1
 	n_length = length / n
 	n_angle = angle / n
@@ -34,10 +32,12 @@ def arc(t, r, angle):
 		t.fd(n_length)
 		t.lt(n_angle)
 
+if __name__ == '__main__':
 
-arc(bob, 50, 180)
+	bob = turtle.Turtle()
 
-turtle.mainloop()
+	arc(bob, 50, 180)
+	turtle.mainloop()
 
 # Step through to final code 
 

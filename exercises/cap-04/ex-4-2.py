@@ -31,5 +31,8 @@ if __name__ == '__main__':
 
 	bob = turtle.Turtle()
 
-	petals(bob, 400, 60, 7)
+	# Change the func. call to print each flower from reference
+	# petals(bob, 400, 60, 7)
+	# petals(bob, 300, 80, 10)
+	petals(bob, 2000, 10, 20)
 	turtle.mainloop()
