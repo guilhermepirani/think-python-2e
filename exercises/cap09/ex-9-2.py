@@ -34,5 +34,7 @@ for word in words:
 			count_no_e += 1
 			print(word)
 
+words.close()
+
 no_e_cent = (count_no_e / line_count) * 100
 print(no_e_cent)
