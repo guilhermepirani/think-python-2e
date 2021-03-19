@@ -1,4 +1,5 @@
 '''Code for 9.2.2
+
 In 1939 Ernest Vincent Wright published a 50,000 word novel
 called Gadsby that does not contain the letter “e”. Since “e” is 
 the most common letter in English, that’s not easy to do.
